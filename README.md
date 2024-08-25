@@ -1,16 +1,15 @@
-### Hi there 👋
+# Mathias Holmgaard 👋
 
-<!--
-**MathiasHolmgaard/mathiasholmgaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Om mig
+Jeg læser på Datamatiker uddannelsen og har en passion for teknologi og softwareudvikling og IT-sikkerhed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Kontakt
+Du kan finde mere information om mig og mine projekter på min hjemmeside:
+- [Hjemmeside](https://www.mathiasholmgaard.com)
+
+## Følg mig
+- [LinkedIn](https://www.linkedin.com/in/mathiasholmgaard)
+- [GitHub](https://github.com/mathiasholmgaard)
+
